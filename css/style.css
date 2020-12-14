@@ -1,0 +1,53 @@
+body {
+  background-color: #f7f6de;
+}
+
+h1 {
+  color: #fa7e0a;
+  font-size: 100px;
+  text-align: center;
+}
+
+.hh {
+  background-color: #f7f6de;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px
+}
+
+hr {
+  border: none;
+  border-bottom: 10px #530c0c dashed;
+  width: 50%;
+}
+
+.pone {
+  color: #530c0c;
+  font-size: 30px;
+  text-align: center;
+}
+
+.ptwo {
+  color: #8f0e0e;
+  font-size: 30px;
+  text-align: center;
+}
+
+.pthree {
+  color: #fa7e0a;
+  font-size: 30px;
+  text-align: center;
+}
+
+.tinypump {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tinypump:hover {
+  background-image: url(https://i.imgur.com/JajXdm0.jpg);
+  background-position: center;
+  background-repeat: none;
+}
